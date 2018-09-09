@@ -11,4 +11,4 @@ while i<a:
     fibo1=fibo2
     fibo2=fibosum
     i=i+1
-print('Chislo fibonachi s poryadkovim nomerom ',a,'ravno',fibosum)
+print('Chislo fibonachi s poryadkovim nomerom ',a,'ravno=',fibosum)
